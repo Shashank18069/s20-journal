@@ -1,0 +1,23 @@
+Day 1/22 · STRANGLE-20 — a small red start 🔴 −0.06R
+
+First live session of the 22-day paper test.
+
+⏰ 10:00 — the bot sold the 26300 CE and the 25300 PE (both ~0.20 delta, 1 Dec expiry), 2 lots. Premium collected: ₹16,854. That's 1R.
+
+📈 NIFTY had opened with a 1.2% gap up, then drifted lower through the afternoon. The put gained (64.80 → 73.15) more than the call lost (64.85 → 63.70).
+
+📰 13:44 — a high-impact headline landed (foreign money flowing back into Indian stocks). The rule: when big news hits while short options, get out. Both legs closed.
+
+Result: −₹936 gross, −₹1,039 after ₹103 charges. −0.06R.
+
+💡 What I'm watching: the news exit. Today it closed the trade early for a small loss. Over 22 sessions we'll find out whether it saves more than it costs.
+
+🛠️ Build note: I restarted the bot mid-morning to ship this journal, and it briefly mistook the restart for stale data. Fixed, and the trade was restored. That's why today's chart starts at 11:35.
+
+📊 Running: 1 trade · 0 wins · −0.06R · −₹1,039 net on ₹5,00,000 paper capital
+
+Every trade gets posted, wins and losses. Swipe for the chart and the bot's reasoning →
+—
+📄 Paper trading only. No real money. Not investment advice. I am not SEBI-registered. This is a build log of my trading bot.
+
+#algotrading #papertrading #tradingbot #tradingjournal #buildinpublic #quanttrading #niftyoptions #optionselling #python #rustlang
