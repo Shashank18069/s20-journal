@@ -1,0 +1,18 @@
+Day 2/22 · STRANGLE-20 — +0.19R 🟢
+Market: NIFTY 25739 -> 25884 (+0.57%), day range 236 pts
+
+Trade 1: NIFTY 0.20D STRANGLE SHORT · 0.20 delta short strangle → +0.19R 🟢
+  • 10:00 entry: sold 26250 CE (delta +0.21) + 25400 PE (delta -0.21), expiry 2026-12-01
+  • Credit Rs 16100 for 2 lots (130 units) = 1R
+  • All entry checks passed at the 10:00 decision (fresh data, no event or news block)
+  • Exit: spike signal (max calm wait)
+  Exit: Exit signal fired after 3h 16m (+23.0 pts)
+
+💡 Lesson: The spike exit at 13:16 closed at Rs 2,996. Holding to 15:15 would have made Rs 4,725, so the exit cost Rs 1,729 today.
+
+📊 Running: 2 trades · 50% win · +0.13R · max DD -0.06R · +Rs 2,061 (paper)
+Swipe for the chart and the bot's full reasoning →
+—
+📄 Paper trading only. No real money. Not investment advice. I am not SEBI-registered. This is a build log of my trading bot.
+
+#algotrading #papertrading #tradingbot #tradingjournal #buildinpublic #quanttrading #python
