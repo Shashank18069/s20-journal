@@ -1,0 +1,16 @@
+Meet STRANGLE-20 🤖 — A NIFTY 0.20-delta short strangle bot, paper traded.
+
+For the next 22 trading days it runs on paper money and I post every single trade here: the chart, the logic behind the entry, how it exited, and the running scorecard. Wins and losses. No edits after the fact.
+
+The rules (locked before day 1):
+1. Instrument: NIFTY weekly options, sell 0.20-delta CE + PE
+2. Entry 10:00 IST only (no entry after 10:05), exit by 15:15
+3. Early exit on a 1-minute spike (23+ pts on 3x volume)
+4. Paper capital Rs 5,00,000, lots sized from equity, Rs 15/order
+5. 1R = premium collected. Every day is posted, wins and losses
+
+Follow along to see if the strategy survives live markets.
+—
+📄 Paper trading only. No real money. Not investment advice. I am not SEBI-registered. This is a build log of my trading bot.
+
+#algotrading #papertrading #tradingbot #tradingjournal #buildinpublic #quanttrading #python
